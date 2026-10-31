@@ -1,5 +1,7 @@
 # HANDOFF · Menger Studio (web)
 
+> **Obsoleto (01-11-2026):** la web buena es https://meng3r-studio.github.io/ y su HANDOFF está en `meng3r-studio/meng3r-studio.github.io`. Esta web solo redirige allí.
+
 Última actualización: 31-10-2026 · Equipo: gargamel
 
 ## Estado actual

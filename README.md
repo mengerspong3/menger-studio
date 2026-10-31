@@ -1,3 +1,9 @@
+# Menger Studio · web antigua
+
+**Esta web se ha trasladado a https://meng3r-studio.github.io/** (repo `meng3r-studio/meng3r-studio.github.io`). `index.html` y `404.html` solo redirigen allí; el resto de archivos se queda como copia antigua.
+
+---
+
 # Menger Studio · web pública (en pruebas)
 
 Escaparate abierto de los juegos de Menger Studio: https://mengerspong3.github.io/menger-studio/
