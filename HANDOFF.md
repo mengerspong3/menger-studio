@@ -17,7 +17,7 @@
 - Plantillas de exportación web de Godot 4.7.2 instaladas en `~/.local/share/godot/export_templates/4.7.2.stable/` (solo las web).
 
 ## Pendiente / siguiente paso
-(Formulario activo: FormSubmit con alias `2fc831a756eb0a747ed2f9cf4f4f800a`, llega a nodoalternativo@gmail.com.)
+(Formulario activo: FormSubmit con alias `2fc831a756eb0a747ed2f9cf4f4f800a`, llega al correo de formularios de Luis.)
 1. **Luis: guardar la intranet en GitHub.** No se pudo crear el repo privado `menger-studio-intranet` (lo bloqueó el modo automático). Crear a mano o decidir dónde va.
 2. FractalBlast web muestra el botón «DBG» del panel de depuración; habría que ocultarlo en exportaciones release (cambio en el repo de FractalBlast).
 3. Vídeo de Narthex con la AR real: grabar la pantalla del Pixel 9a (`adb shell screenrecord`) y sustituir `video/narthex.mp4`.
